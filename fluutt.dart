@@ -1,6 +1,5 @@
 void main() {
-  int age= 21;
-  int  num =20;
-    if(age>=13 && num<19) ? " teenager":"not teeenager";
-
+  print('''My Name: Omar alhatilh 
+  MY dept code : 51222170
+  My specialty : information technology''');
 }
